@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(243, 200, 255);
+}
+
+.container{
+    box-shadow: 5px 5px 10px 1px #000000;
+    border-radius: 5px;
+}
